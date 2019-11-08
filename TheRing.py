@@ -37,7 +37,7 @@ ring += '     O\n\n    '
 
 for whereTheShadowLie in ' the land of mordor':
     ring += 'O'
-    if whereTheShadowLie == 'h' : ring += '\n\n   '
+    if whereTheShadowLie == 'h' : ring += '\n\n  OO'
     if whereTheShadowLie == 'n' : ring += '\n\n'
 
 
